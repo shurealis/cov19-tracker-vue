@@ -1,6 +1,7 @@
 # cov19-tracker-vue
 
-Project created using Vue.js ver.3 and TailwindCSS
+Project created using Vue.js ver.3 and TailwindCSS <br>
+Credit to: <a href="https://www.youtube.com/watch?v=m-MAIpnH9ag&ab_channel=TraversyMedia">Brad Traversy</a>
 
 ## API used
 ```
