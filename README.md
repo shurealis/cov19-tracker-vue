@@ -1,8 +1,20 @@
-# cov-tracker-vue
+# cov19-tracker-vue
 
-## Project setup
+Project created using Vue.js ver.3 and TailwindCSS
+
+## API used
 ```
-npm install
+https://covid19api.com/
+```
+
+## Install Vue.JS CLI (ver.3)
+```
+npm install -g @vue/cli
+```
+
+## Install Tailwind through Vue CLI
+```
+vue add tailwind
 ```
 
 ### Compiles and hot-reloads for development
